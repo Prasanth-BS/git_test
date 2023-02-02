@@ -1,2 +1,2 @@
 "Created the file and added inital commit"
-"Create the file and added Prasanth commit"
+"Created the file and added Prasanth commit"
